@@ -22,5 +22,4 @@ __Привет! Меня зовут Саша 👋__
 
 🏆 __Моя статистика:__
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnevetskayaSasha&show_icons=true&card_width=140)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnevetskayaSasha&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnevetskayaSasha&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnevetskayaSasha)
