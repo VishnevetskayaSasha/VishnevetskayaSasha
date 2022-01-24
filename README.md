@@ -4,6 +4,7 @@ __Привет! Меня зовут Саша 👋__
 - 💖 Люблю ромашковый чай и читать книжки;
 - 🎓 Упорно учусь новому и прохожу разнообразные курсы для совершенствования своих навыков (Я.Практикум, Codecademy, Htmlacademy);
 - 🤝 Ищу работу в компании с дружелюбным коллективом. Надеюсь как можно скорее познакомиться с настоящими проектами и быть полезной для команды;
+- ✉️ Связаться со мной можно по почте: visneveckaya.a@gmail.com или в Telegram: http://t.me/vishenca 
 
 - - -
 
@@ -24,4 +25,4 @@ __Привет! Меня зовут Саша 👋__
 
 🏆 __Моя статистика:__
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnevetskayaSasha&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnevetskayaSasha)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnevetskayaSasha&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnevetskayaSasha&card_height=130px)
