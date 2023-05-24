@@ -21,8 +21,19 @@ __Привет! Меня зовут Саша 👋__
 <br />
 
 - - -
+🔥 __Интересные проекты:__
+- [Shelter](https://vishnevetskayasasha.github.io/Shelter/shelter/pages/main/index.html) - адаптивный двустраничный сайт для помощи бездомным животным найти новый дом.   
+*Функционал* - бургер меню (для мобилок), бесконечная галлерея-карусель, модальные окна, пагинация.   
+*Стек* - HTML, CSS, JavaScript, БЭМ, Figma.
+- [Mesto (React)](http://VishnevetskayaSasha.github.io/react-mesto-auth) - адаптивное приложение для обмена фотографиями.   
+*Функционал* - работа с API, всплывающие модальные окна, страницы авторизации и регистрации, блоки редактирования профили и добавления фотографий с описанием.   
+*Стек* - HTML, CSS, JavaScript, React, JSX, React DOM, Webpack, БЭМ, Figma.   
+- [Russian travel](https://vishnevetskayasasha.github.io/russian-travel/) - одностраничный адаптивный сайт об удивительных фактах о России.   
+*Стек* - HTML, CSS, Grid Layout, БЭМ, Figma.   
+- [Freelancer](https://vishnevetskayasasha.github.io/Keanu-freelancer/) - одностраничный адаптивный сайт-портфолио фрилансера.   
+*Стек* - HTML, CSS, Grid Layout, БЭМ, Figma.   
 
-
+- - -
 🏆 __Моя статистика:__
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VishnevetskayaSasha&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnevetskayaSasha&card_height=130px)
